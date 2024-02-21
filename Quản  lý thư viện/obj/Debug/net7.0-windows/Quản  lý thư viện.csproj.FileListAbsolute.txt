@@ -1,0 +1,17 @@
+C:\Users\lvhoa\source\repos\Quản  lý thư viện\Quản  lý thư viện\obj\Debug\net7.0-windows\Quản__lý_thư_viện.GUI.formQLTV.resources
+C:\Users\lvhoa\source\repos\Quản  lý thư viện\Quản  lý thư viện\obj\Debug\net7.0-windows\Quản__lý_thư_viện.Properties.Resources.resources
+C:\Users\lvhoa\source\repos\Quản  lý thư viện\Quản  lý thư viện\obj\Debug\net7.0-windows\Quản  lý thư viện.csproj.GenerateResource.cache
+C:\Users\lvhoa\source\repos\Quản  lý thư viện\Quản  lý thư viện\obj\Debug\net7.0-windows\Quản  lý thư viện.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvhoa\source\repos\Quản  lý thư viện\Quản  lý thư viện\obj\Debug\net7.0-windows\Quản  lý thư viện.AssemblyInfoInputs.cache
+C:\Users\lvhoa\source\repos\Quản  lý thư viện\Quản  lý thư viện\obj\Debug\net7.0-windows\Quản  lý thư viện.AssemblyInfo.cs
+C:\Users\lvhoa\source\repos\Quản  lý thư viện\Quản  lý thư viện\obj\Debug\net7.0-windows\Quản  lý thư viện.csproj.CoreCompileInputs.cache
+C:\Users\lvhoa\source\repos\Quản  lý thư viện\Quản  lý thư viện\bin\Debug\net7.0-windows\Quản  lý thư viện.exe
+C:\Users\lvhoa\source\repos\Quản  lý thư viện\Quản  lý thư viện\bin\Debug\net7.0-windows\Quản  lý thư viện.deps.json
+C:\Users\lvhoa\source\repos\Quản  lý thư viện\Quản  lý thư viện\bin\Debug\net7.0-windows\Quản  lý thư viện.runtimeconfig.json
+C:\Users\lvhoa\source\repos\Quản  lý thư viện\Quản  lý thư viện\bin\Debug\net7.0-windows\Quản  lý thư viện.dll
+C:\Users\lvhoa\source\repos\Quản  lý thư viện\Quản  lý thư viện\bin\Debug\net7.0-windows\Quản  lý thư viện.pdb
+C:\Users\lvhoa\source\repos\Quản  lý thư viện\Quản  lý thư viện\obj\Debug\net7.0-windows\Quản  lý thư viện.dll
+C:\Users\lvhoa\source\repos\Quản  lý thư viện\Quản  lý thư viện\obj\Debug\net7.0-windows\refint\Quản  lý thư viện.dll
+C:\Users\lvhoa\source\repos\Quản  lý thư viện\Quản  lý thư viện\obj\Debug\net7.0-windows\Quản  lý thư viện.pdb
+C:\Users\lvhoa\source\repos\Quản  lý thư viện\Quản  lý thư viện\obj\Debug\net7.0-windows\Quản  lý thư viện.genruntimeconfig.cache
+C:\Users\lvhoa\source\repos\Quản  lý thư viện\Quản  lý thư viện\obj\Debug\net7.0-windows\ref\Quản  lý thư viện.dll

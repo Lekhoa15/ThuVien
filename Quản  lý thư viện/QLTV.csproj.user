@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="GUI\formChitTiet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\formCTDocGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\formDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\formPhieuMuon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\formPhieuTra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\formQLTV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\formThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\formUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

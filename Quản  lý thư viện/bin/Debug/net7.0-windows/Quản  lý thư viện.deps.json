@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Quản  lý thư viện/1.0.0": {
+        "runtime": {
+          "Quản  lý thư viện.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quản  lý thư viện/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
